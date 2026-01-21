@@ -4,7 +4,7 @@ Have implemented Room database for persisting Wordkout history records.
 
 ## Getting Started
 To get started with the 7-Minute Workout Android App, clone this repository to your local machine:
-git clone https://github.com/darshansatra1/7-Minutes-Workout.git
+git clone https://github.com/Itsorgnikhil/7-Minutes-Workout.git
 
 Alternatively, you can download the zip file and extract it.
 
